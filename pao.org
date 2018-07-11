@@ -1,0 +1,318 @@
+#+TITLE: PAO
+#+DATE:
+#+AUTHOR: Raimon Grau
+#+EMAIL: raimonster@gmail.com
+#+OPTIONS: reveal_center:nil timestamp:nil
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:nil arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:nil
+#+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+CREATOR: Emacs 25.0.50.1 (Org mode 8.2.10)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+REVEAL_THEME: black
+
+* 00
+** ozzy osbourne
+** eating bat
+* 01
+** 01- Neo (“The One”)
+** standing in a (phONE booth)
+* 02
+** obi-wan/obelix/osama bin laden
+** exploding
+* 03
+** OC: oscar C.
+** a ma cambiada/gafas de sol
+* 04
+** OD: Amy Winehouse
+** OD'ing
+* 05
+** OE: Fanatico de la Roja
+** OEEE OE OE OEEEE...!!!
+* 06
+** Omar shariff/ omar sy
+** packed in a car (top secret)
+* 07
+** james bond
+** wearing a tuxito and drinking wiskey
+* 08
+** OH: Oliver Hardy
+** Escena el gordo y el flaco
+* 09
+** Olivia Newton john
+** con un pañuelo en la cabeza
+* 10
+** messi
+** Marcando un gol
+* 11
+** Andre Agassi
+** jugando a tenis
+* 12
+** Andreu Buenafuente / Antonio banderas
+** Contando chiste/ zorro
+* 13
+** al capone/Angus young(AC/dc)
+** shooting tommy gun
+* 14
+** Arthur Doyle /Jesus
+** Escribiendo un libro / sermon
+* 15
+** albert einstein
+** writting in a chalk board
+* 16
+** Arnold Schwarzenaegger
+** riding a motorbike
+* 17
+** Andre el gigante/antoni gaudi
+** Mascando una cuerda
+* 18
+** adolf hitler
+** heiling
+* 19
+** AN: Alfred nobel / angel nieto
+** lighting dynamite/ motorbiking
+* 20
+** barak obama
+** holding a 'yes we can' banner
+* 21
+** Bryan Adams
+** Doing a 69 with a guitar
+* 22
+** Bugs Bunny/BBking
+** eating a carrot
+* 23
+** bill clinton
+** getting a blowjob
+* 24
+** bob dylan
+** playing harmonica / blowing in the wind
+* 25
+** bernie ecclestone
+** champange y putas
+* 26
+** Bart simpson /ben stiller
+** riding skateboard
+* 27
+** bill gates
+** programming a computer
+* 28
+** Benny Hill
+** Chasing nude/buxom women
+* 29
+** BN: Michael jackson (blanc/negre)
+** moonwalking
+* 30
+** CO: ConnanOBrian /okasaki/cocochanel/muniente
+** contando un chiste/encanyonandose / on top of a tree
+* 31
+** Christina Aguilera/ Capitan America
+** singing / holding shield
+* 32
+** charlie brown
+** missing a bootball
+* 33
+** charlie chaplin
+** bending cane
+* 34
+** Charles darwin/celine dion
+** riding a turtle/catching butterflies
+* 35
+** clint eastwood
+** mascando tabaco
+* 36
+** claudia schiffer/c.shannon/c.santana
+** walking along the catwalk
+* 37
+** che guevara
+** riding a motorbike
+* 38
+** Charlton heston/ captain haddock
+** ?
+* 39
+** chuck norris
+** patada voladora
+* 40
+** dominick OBrien /homer simpson
+** memorizing deck /eating DOnut
+* 41
+** DA: Darren aronofsky
+** Taladrandose el cerebro
+* 42
+** David Beckam /david bisbal
+** kicking ball
+* 43
+** david copperfield
+** doing magic
+* 44
+** DD: didier
+** preparando asado
+* 45
+** DE: douglas engelbart/ duke elington
+** sentado en un dock/ tocando el piano
+* 46
+** Dr.Spock
+** piloting ship while saluting
+* 47
+** DG: David guetta
+** scratching
+* 48
+** Douglas Hofstadter /david hasselhoff
+** talking with a turtle
+* 49
+** DN: Don bot / dr. no
+** ?
+* 50
+** EO: Cleopatra
+** Walking like an egyptian (EEOOOEEEOOO, EEEOEEOO)
+* 51
+** EA: Edgar allan poe
+** cuervo en el hombro
+* 52
+** EB: Ellizabeth banks/Enrique bunbyry
+** american pie? / cantando a saco
+* 53
+** Eric clapton / erik cartman
+** guitar-depresivo/ gritando "hijodeputaaa"
+* 54
+** ED: Edsger W. Dijkstra. eddie murphy?
+** insultando
+* 55
+** EE: eminem.
+** rapeando
+* 56
+** Edward Snowden
+** hacking nsa
+* 57
+** EG: Enola Gay (airplane)/ed.scisorhands
+** dropping bomb
+* 58
+** Ernst hemingway/ ethan hunt
+** follandose a sara montiel/pescando
+* 59
+** EN: edward norton
+** Kicking niggers
+* 60
+** shaquille O'Neil
+** slam dunk
+* 61
+** SA: Sterling Archer/ Steve Aoki / Salvador allende
+** scratch
+* 62
+** Sandra Bullock
+** driving a bus
+* 63
+** Sean Connery
+** en el casino
+* 64
+** snoop dog /salvador dali
+** smoking joint
+* 65
+** SE: Shannon elisabeth/ santa's elves
+** eating american pie
+* 66
+** Sylvester Stalone
+** guantes de boxeo
+* 67
+** samwise gamgee/ Seth green
+** ?
+* 68
+** Sherlock Holmes/stephen hawking
+** Magnifying glass / heroin
+* 69
+** SN: sam neil/ Silvia SaiNt
+** Haciendo un 69
+* 70
+** George Orwell
+** in animal farm
+* 71
+** GA: Gillian Anderson
+** X-files
+* 72
+** George Bush/mario bros
+** bombing irak / looking through binos in army helmet/tank)
+* 73
+** George Clooney
+** Fent Cafe
+* 74
+** GErard depardieu
+**
+* 75
+** Gloria estefan
+** Carnaval
+* 76
+** Gene Simons
+** Spitting blood
+* 77
+** Galileo galilei/ gandalf the Grey
+** lookin through telescope/ tapando un arbol
+* 78
+** George harrison
+** strumming Guitar
+* 79
+** GN: Professor farnsworth
+** Good news everyone
+* 80
+** Santa claus
+** Carrying ssack of gifts
+* 81
+** HA: Joker /Hal Abelson
+** Laughing / wizard had
+* 82
+** Halle berry
+** tanning
+* 83
+** yo
+** vomitando rainbows
+* 84
+** HD: henry HouDini. high definition
+**
+* 85
+** HE: he-man
+** sword-and-cat
+* 86
+** Han solo / Homer simpson
+** ?
+* 87
+** HG. Wells
+** driving time machine
+* 88
+** Hulk hogan
+** holding wwe belt
+* 89
+** HN: HaNSolo. Paul Graham
+** Browsing Hackernews
+* 90
+** NO: Dr.No
+**
+* 91
+** Neil Armstrong
+** walking on the moon / Floating with astronaut suit
+* 92
+** napoleon bonaparte
+** hand tucked in coat
+* 93
+** Nicolas Cage
+** holding 60sec chrono
+* 94
+** ND: Jim morrison
+** riding a snake
+* 95
+** NE: Naked elvis?
+** ?
+* 96
+** Nicolas sarkozy
+** standing on a box
+* 97
+** NG: noel galagher
+** Ensenyant els ous
+* 98
+** NH: joan gaspart/neil harris
+** hi-five howImetYourMother
+* 99
+** NN: SuperNaNnjy
+** ?
