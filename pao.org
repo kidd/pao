@@ -7,7 +7,6 @@
 #+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:nil
 #+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil stat:t
 #+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
-#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
 #+CREATOR: Emacs 25.0.50.1 (Org mode 8.2.10)
 #+DESCRIPTION:
 #+EXCLUDE_TAGS: noexport
