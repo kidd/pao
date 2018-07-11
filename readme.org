@@ -1,0 +1,16 @@
+* What's this
+  My P-A-O system following Dominic's System.
+
+* Why
+  Reading some books about speed reading, memory athletes, and
+  memorizing techniques I started adapting the systems there to my
+  personal needs and tastes.
+
+* Where
+  https://kidd.github.io/pao
+
+* When
+  Developed late 2017
+
+* Who
+  Raimon Grau <raimonster@gmail.com>
