@@ -37,7 +37,7 @@
 ** Omar shariff/ omar sy
 ** packed in a car (top secret)
 * 07
-** james bond
+** james bond (pierce)
 ** wearing a tuxito and drinking wiskey
 * 08
 ** OH: Oliver Hardy
@@ -206,7 +206,8 @@
 ** driving a bus
 * 63
 ** Sean Connery
-** en el casino
+** riding a horse
+   (seguidme, conozco el camino)
 * 64
 ** snoop dog /salvador dali
 ** smoking joint
@@ -257,10 +258,10 @@
 ** Good news everyone
 * 80
 ** Santa claus
-** Carrying ssack of gifts
+** Carrying bag of gifts
 * 81
 ** HA: Joker /Hal Abelson
-** Laughing / wizard had
+** Laughing / wizard hat
 * 82
 ** Halle berry
 ** tanning
