@@ -12,5 +12,25 @@
 * When
   Developed late 2017
 
+* How
+  First is to create your own PAO list. After that, the slides are
+  good to train, learn, and remember.
+
+  Second, there's the encode_num nim file that can be used to
+  translate a number to a mnemotechnique "story".
+
+#+BEGIN_SRC bash
+nim -c -r encode_num.nim
+#+END_SRC
+
+to fill the hashes from the org file, here's a very naive way to do it:
+
+#+BEGIN_SRC bash
+
+(echo "var people = [ " ; cat pao.org | grep -v "^#"| grep -v "^$"| grep -v "^\* "| range "(($.)%2)" | sed -e 's/\*\*//' -e 's/^/  "/' -e 's/$/",/' ; echo  "]")  >>people.nim
+(echo "var actions = [ " ; cat pao.org| grep -v "^#"| grep -v "^$"| grep -v "^\* "| range "(($.+1)%2)" | sed -e 's/\*\*//' -e 's/^/  "/' -e 's/$/",/' ; echo  "]")  >>people.nim
+
+#+END_SRC
+
 * Who
   Raimon Grau <raimonster@gmail.com>

@@ -176,7 +176,7 @@
 ** american pie? / cantando a saco
 * 53
 ** Eric clapton / erik cartman
-** guitar-depresivo/ gritando "hijodeputaaa"
+** guitar-depresivo/ gritando 'hijodeputaaa'
 * 54
 ** ED: Edsger W. Dijkstra. eddie murphy?
 ** insultando
@@ -206,8 +206,7 @@
 ** driving a bus
 * 63
 ** Sean Connery
-** riding a horse
-   (seguidme, conozco el camino)
+** riding a horse (seguidme, conozco el camino)
 * 64
 ** snoop dog /salvador dali
 ** smoking joint
@@ -219,7 +218,7 @@
 ** guantes de boxeo
 * 67
 ** samwise gamgee/ Seth green
-** ?
+** ??
 * 68
 ** Sherlock Holmes/stephen hawking
 ** Magnifying glass / heroin
@@ -240,7 +239,7 @@
 ** Fent Cafe
 * 74
 ** GErard depardieu
-**
+** ??
 * 75
 ** Gloria estefan
 ** Carnaval
@@ -270,7 +269,7 @@
 ** vomitando rainbows
 * 84
 ** HD: henry HouDini. high definition
-**
+** ??
 * 85
 ** HE: he-man
 ** sword-and-cat
@@ -288,7 +287,7 @@
 ** Browsing Hackernews
 * 90
 ** NO: Dr.No
-**
+** ??
 * 91
 ** Neil Armstrong
 ** walking on the moon / Floating with astronaut suit
